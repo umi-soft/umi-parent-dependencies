@@ -1,0 +1,10 @@
+.settings
+.project
+.classpath
+.springBeans
+target
+.mvn
+.idea
+
+umi-parent-dependencies.iml
+
