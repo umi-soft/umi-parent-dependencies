@@ -5,7 +5,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<organization>
-		<name>安徽优米网络科技有限公司</name>
+		<name>优米油米</name>
 		<url>https://opensource.umisoft.cn</url>
 	</organization>
 	<repositories>
@@ -47,7 +47,7 @@
 			<dependency>
 				<groupId>com.alibaba</groupId>
 				<artifactId>druid-spring-boot-starter</artifactId>
-				<version>1.1.11</version>
+				<version>1.1.10</version>
 			</dependency>
 			<dependency>
 				<groupId>com.alibaba</groupId>
@@ -59,7 +59,6 @@
 				<groupId>org.projectlombok</groupId>
 				<artifactId>lombok</artifactId>
 				<version>1.18.4</version>
-				<scope>provided</scope>
 			</dependency>
 
 		</dependencies>
