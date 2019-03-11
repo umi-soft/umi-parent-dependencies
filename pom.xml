@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cn.umisoft.opensource</groupId>
 	<artifactId>umi-parent-dependencies</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0-alpha</version>
 	<packaging>pom</packaging>
 	<organization>
 		<name>优米油米</name>
